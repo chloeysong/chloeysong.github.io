@@ -1,6 +1,9 @@
 # Ignore the contents of the _site directory
 _site/
 
+# Ignore Claude Code local settings
+.claude/
+
 # Ignore the directory for local files during development
 local/
 
