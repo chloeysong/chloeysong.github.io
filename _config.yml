@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Chloe Yunjie Song"
 title_separator          : "-"
 name                     : &name "Chloe Yunjie Song"
-description              : &description "PhD Student at Boston University"
+description              : &description "Ph.D. Candidate at Boston University"
 url                      : https://chloeysong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chloeysong.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "jm_headshot.jpg"
   name             : "Chloe Song"
   pronouns         : # example: "she/her"  
-  bio              : "Fifth Year PhD Student at Boston University"
+  bio              : "Ph.D. Candidate at Boston University"
   location         : "Boston, MA"
   employer         : 
   uri              : # URL
