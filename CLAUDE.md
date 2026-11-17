@@ -46,6 +46,6 @@ This is a Jekyll static site built on the [Academic Pages](https://academicpages
 ## Adding Content
 
 - **New publication**: add a `.md` file in `_publications/` with front matter fields `title`, `collection: publications`, `category` (books/manuscripts/conferences), `date`, `venue`, `paperurl`, `citation`, and `excerpt`. Or edit `publications.tsv` and run `markdown_generator/publications.py`.
-- **CV update**: replace `files/Song_Chloe_CV.pdf`.
+- **CV update**: replace `files/CV_ChloeSong.pdf`.
 - **Enable a nav section**: uncomment the relevant entry in `_data/navigation.yml` and ensure the corresponding page/collection exists.
 - **Author sidebar**: edit the `author:` block in `_config.yml`.

@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fifth-year Ph.D. student in Economics at Boston University. I am interested in Empirical Industrial Organization. My research focuses on the mergers in the Internet Service Provider (ISP) Market and analyzes the effects of the merger. Besides, I am also interested in the spatial distribution of data centers and evaluating potential inefficiencies in data center networks.
+I'm a Ph.D. Candidate in Economics at Boston University. My field is Empirical Industrial Organization. My research examines interconnection at U.S. colocation data centers and potential inefficiencies in the data center networks. Besides, I also look at the mergers in the Internet Service Provider (ISP) market and analyzes the effects of the merger.
